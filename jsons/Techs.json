@@ -126,7 +126,7 @@
 		"techs": [
 			{
 				"name": "Optics",
-				"cost": 85,
+				"cost": 999999,
 				"row": 1,
 				"prerequisites": ["Sailing"],
 				"uniques": ["Enables embarkation for land units"],
@@ -217,13 +217,13 @@
 	{
 		"columnNumber": 6,
 		"era": "Medieval era",
-		"techCost": 485,
+		"techCost": 9999999,
 		"buildingCost": 160,
 		"wonderCost": 400,
 		"techs": [
 			{
 				"name": "Compass",
-				"cost": 375,
+				"cost": 999999,
 				"row": 1,
 				"prerequisites": ["Optics","Theology"],
 				"quote": "'I find the great thing in this world is not so much where we stand, as in what direction we are moving.' - Oliver Wendell Holmes"
